@@ -9,7 +9,6 @@ on:
 jobs:
     frontend:
         # Github runner
-          # Github runner
         runs-on: ubuntu-latest
         steps:
             - name: Checkout Code
